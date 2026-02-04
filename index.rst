@@ -4,7 +4,7 @@
    :caption: keyestudio KS0548(KS0548A) Board
 
    README.md
-   docs/keyestudio/index
+   docs/KS0548(KS0548A).md
 
 
 
